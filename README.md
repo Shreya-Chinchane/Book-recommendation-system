@@ -12,7 +12,7 @@ The dataset used in this work is the Book-Crossing Dataset that comprises three 
 * Users:  Contains the user’s information. It consists of 3 columns: UserID, Location, and age.
 * Ratings:  Contains the information on ratings of the books. It consists of 3 columns UserID, ISBN, and Book Rating.
 
-All the pre-processing and cleaning on the dataset is described below:
+# All the pre-processing and cleaning on the dataset is described below:
 
 * Books Table
 1. Drop all three Image URL features.
